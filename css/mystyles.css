@@ -1,0 +1,117 @@
+
+.myHeading {
+    padding: 18px 0 18px 0;
+}
+
+.myContainer {
+    min-height: 540px;
+    padding-top: 60px;
+}
+img{
+    max-width: 80% !important;
+}
+.myFooter {
+    margin-top: 3.6em;
+    border-top: 2px solid grey;
+    min-height: 3.6em;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.myFooter p {
+    line-height: 1.5em;
+    vertical-align: middle;
+}
+
+.ruler-with-spacing {
+    margin-top: 2.4em;
+    margin-bottom: 2.4em;
+}
+
+.bottom-margin {
+    margin-bottom: 1.8em;
+}
+
+.bg_pill .active a,
+.bg_pill .active a:hover {
+    background-color: #222;
+    border-color: #080808;
+}
+
+#try {
+    display: block;
+}
+
+/* The side navigation menu */
+.sidenav {
+    height: 100%; /* 100% Full-height */
+    max-width: 220px; /* 0 width - change this with JavaScript */
+    z-index: 1; /* Stay on top */
+    top: 0;
+    left: 0;
+    overflow-x: hidden; /* Disable horizontal scroll */
+    transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
+}
+
+/* The navigation menu links */
+.sidenav a {
+    text-decoration: none;
+    line-height: 3em;
+    color: black;
+    display: block;
+    transition: 0.3s
+}
+
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover, .offcanvas a:focus{
+    font-weight: bold;
+}
+
+
+
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+    transition: margin-left .5s;
+    //border: solid 2px red;
+}
+
+#main_body {
+    transition: margin-left 5s;
+    //padding: 16px;
+}
+
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+}
+
+.new {
+    max-height: 60px;
+    width: 100%;
+    top: 0;
+    overflow: hidden;
+    position: relative;
+    z-index: 1;
+    display: block;
+}
+[class^="col-"] {
+    padding-top: 9px;
+
+}
+
+.full {
+    width: 100%;
+}
+.half {
+    width: 80%;
+}
+
+.mid {
+    //border: solid 2px green;
+    padding-top:50px;
+}
+#on {
+    position: relative;
+    z-index: 1;
+}

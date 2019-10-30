@@ -1,0 +1,8 @@
+Issue Alert!
+Type of Issue: Page Not Found
+
+Submitted by: Alvee
+Email ID: alvee.akash@gmail.com
+Submitted At: 02:02:32am - on - 23.03.2017,
+
+Details: Posts page not working. add new post is not updating.
