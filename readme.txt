@@ -1,4 +1,5 @@
-I had to add date in the user table with prof's permission.
+# Content Management System
 
-all grading requirements have met in this submission, inluding 
-recent users profile.
+
+This is a custom built content management system. 
+Developed in PHP, JavaScript, jQuery, Bootstrap, etc.
